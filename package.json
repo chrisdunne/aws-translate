@@ -1,0 +1,13 @@
+{
+    "name": "@cdunne/aws-translate",
+    "version": "1.0.0",
+    "description": "provides translation functionality by utilising the AWS Translate service",
+    "license": "MIT",
+    "repository": "chrisdunne/aws-translate",
+    "main": "translate.js",
+    "keywords": [
+        "translate",
+        "translation",
+        "aws"
+    ]
+}
